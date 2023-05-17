@@ -1,4 +1,4 @@
-# PROJECTS
+# PROJECT
 A small project on Edge detection as a part of course ELL_205(signals and systems).
 
 Requirements: This requires installation of matlab on your system.
